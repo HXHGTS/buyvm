@@ -1,0 +1,6 @@
+#/etc/network
+
+iface eth0 inet6 static
+        address <ipv6>
+        netmask 48
+        gateway <ipv6_gw>
