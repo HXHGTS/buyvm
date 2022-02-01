@@ -1,4 +1,4 @@
-#/etc/network
+# /etc/network/interfaces
 
 iface eth0 inet6 static
         address <ipv6>
